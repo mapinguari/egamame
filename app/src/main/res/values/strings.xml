@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">scoreStrip</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="capture_button_text">Capture</string>
+    <string name="database_button_text">Database</string>
+    <string name="title_activity_data_capture">data_capture</string>
+    <string name="title_activity_database">Database</string>
+    <string name="database_list_header">Previous Sessions</string>
+    <string name="title_activity_session_show">Session_show</string>
+
+    <string name="hello_world">Hello world!</string>
+
+
+</resources>
